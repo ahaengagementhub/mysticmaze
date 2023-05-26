@@ -526,7 +526,7 @@ window.onload = function() {
   };
   sprite = new Image();
   sprite.src =
-    "https://image.ibb.co/dr1HZy/Pf_RWr3_X_Imgur.png" +
+    "https://ahaengagementhub.github.io/mysticmaze/Core.png" +
     "?" +
     new Date().getTime();
   sprite.setAttribute("crossOrigin", " ");
@@ -538,7 +538,7 @@ window.onload = function() {
   };
 
   finishSprite = new Image();
-  finishSprite.src = "https://image.ibb.co/b9wqnJ/i_Q7m_U25_Imgur.png"+
+  finishSprite.src = "https://ahaengagementhub.github.io/mysticmaze/connect.png"+
   "?" +
   new Date().getTime();
   finishSprite.setAttribute("crossOrigin", " ");
